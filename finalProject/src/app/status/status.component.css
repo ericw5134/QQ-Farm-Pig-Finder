@@ -1,0 +1,33 @@
+form {
+    border: 1px solid black;
+    border-radius: 15px;
+    padding: 20px 20px 20px 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+label {
+    font-weight: bolder;
+    margin-top: 10px;
+}
+
+input {
+    border: 1px solid black;
+    width: 100%;
+    border-radius: 10px;
+    margin-top: 5px;
+    padding: 5px;
+}
+
+#buttons-holder {
+    margin-top: 10px;
+}
+
+button {
+    border-radius: 10px;
+    margin-right: 5px;
+}
+
+legend{
+    text-align: center;
+}

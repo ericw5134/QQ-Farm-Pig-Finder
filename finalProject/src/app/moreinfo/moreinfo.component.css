@@ -1,0 +1,17 @@
+table {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 1px solid black;
+    width: 100%;
+}
+
+td {
+    border: 1px solid black;
+    border-collapse: separate;
+    padding: 5px;
+}
+
+h1 {
+    margin: 10px;
+    text-align: center;
+}

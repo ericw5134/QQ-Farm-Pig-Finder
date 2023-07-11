@@ -1,0 +1,24 @@
+<body>
+    <div id="mapid" style="width:100%;height:400px"></div>
+
+    <table id="dataTable"></table>
+
+    <div id="btnContainer">
+        <button id="createReport" 
+            (click)="redirect()"
+        >Create A New Pig Report</button><br>
+        <button id="moreinfo_btn"
+            (click)="redirect_more()"
+        >Display Extra information About Current Pig Reports</button><br>
+        <button id="delete_btn"
+            (click)="redirect_delete()"
+        >Delete a pig</button><br>
+        <button id="status_btn"
+            (click)="redirect_status()"
+        >Change a Pig's Current Status</button><br>
+        <button id="refresh_btn"
+            (click)="refresh()"
+        >Refresh The Page</button><br> 
+    </div>
+
+</body>

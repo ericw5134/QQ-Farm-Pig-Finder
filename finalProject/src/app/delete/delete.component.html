@@ -1,0 +1,13 @@
+<form>
+    <legend>Delete Form</legend>
+    <label for="password">Enter Password:</label><br>
+    <input type="text" id="password" name="password" placeholder="Enter password"><br>
+
+    <label for="name">Enter Name of Reporter:</label><br>
+    <input type="text" id="name" name="name" placeholder="Enter name"><br>
+
+    <div id="buttons-holder">
+        <button type="button" id="delete" (click)="del()">CONFIRM</button> 
+        <button type="button" id="cancel" (click)="goback()">CANCEL</button>    
+    </div>
+</form>

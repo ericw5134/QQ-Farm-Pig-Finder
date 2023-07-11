@@ -1,0 +1,40 @@
+#map { 
+    height: 600px; 
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+table {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 1px solid black;
+    width: 100%;
+}
+
+td {
+    border: 1px solid black;
+    border-collapse: separate;
+    padding: 5px;
+}
+
+button {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 50%;
+}
+
+#delete_btn{
+    background-color: lightcoral;
+}
+
+#createReport, #refresh_btn{
+    background-color: lightgreen;
+}
+
+#moreinfo_btn, #status_btn{
+    background-color: lightyellow;
+}
+
+#btnContainer{
+    margin-left: 35%;
+}
