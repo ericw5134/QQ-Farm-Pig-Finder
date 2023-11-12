@@ -1,4 +1,4 @@
-# Homie Code
+# QQ Farm Pig Finder
 
 ## Table of Contents
 
@@ -29,12 +29,10 @@ and
 ## Installation
 Via https
 ```bash
-git clone https://github.com/ericw5134/Homie-Code-.git
-cd Homie-Code-
+git clone https://github.com/ericw5134/QQ_Farm_Pig_Finder.git
 ```
 or 
 Via ssh
 ```bash
-git git@github.com:ericw5134/Homie-Code-.git
-cd Homie-Code-
+git git@github.com:ericw5134/QQ_Farm_Pig_Finder.git
 ```
